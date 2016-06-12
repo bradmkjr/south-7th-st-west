@@ -1,11 +1,21 @@
 /*
-Theme Name: Scratch Child
-Description: Child theme for the Scratch. Child themes are the recommended way of making modifications to a theme. <a href="http://codex.wordpress.org/Child_Themes">Read More</a>
-Author: ThemeFuse
-Author URI: http://themefuse.com/
-Template: scratch-parent
+Theme Name:        South 7th Street West
+Description:       Child theme for the Scratch.
+Template:          scratch-parent
+Author:            Bradford Knowlton
+Author URI:        http://bradknowlton.com/
+License:           GNU General Public License v2
+License URI:       http://www.gnu.org/licenses/gpl-2.0.html
+Domain Path:       /languages
+Text Domain:       github-updater
+
+Version:           1.0.1
+
+GitHub Theme URI: https://github.com/bradmkjr/south-7th-st-west
+
 */
 
 
 /* =Theme customization starts here
 -------------------------------------------------------------- */
+
